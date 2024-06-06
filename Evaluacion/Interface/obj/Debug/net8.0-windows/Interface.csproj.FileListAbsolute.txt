@@ -1,0 +1,5 @@
+C:\Users\Aprendiz\Desktop\Evaluacion\Evaluacion\Interface\obj\Debug\net8.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Evaluacion\Evaluacion\Interface\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Aprendiz\Desktop\Evaluacion\Evaluacion\Interface\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Aprendiz\Desktop\Evaluacion\Evaluacion\Interface\obj\Debug\net8.0-windows\Interface_MarkupCompile.cache
+C:\Users\Aprendiz\Desktop\Evaluacion\Evaluacion\Interface\obj\Debug\net8.0-windows\Interface_MarkupCompile.lref
