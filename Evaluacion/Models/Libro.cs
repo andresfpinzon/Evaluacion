@@ -24,17 +24,23 @@ namespace Models
 			set { titulo = value; }
 		}
 
-		private Capitulo capitulo;
+        private Capitulo capitulo;
 
-		public Capitulo Capitulo
+        public Capitulo Capitulo
+        {
+            get { return capitulo; }
+            set { capitulo = value; } 
+        }
+
+        public void	AgregarCapitulo(Capitulo capitulo)
 		{
-			get { return capitulo; }
-		}
+            this.capitulo = capitulo;
+        }
 
-		public void	AgregarCapitulo(Capitulo capitulo)
-		{
-			capitulo = new Capitulo();
-		}
+        public override string ToString()
+        {
+            return $"Datos del libro, ID: {IdL}, Titulo: {Titulo}, Capitulo: {Capitulo}";
+        }
 
-	}
+    }
 }

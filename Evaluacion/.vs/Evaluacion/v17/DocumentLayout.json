@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\",
+  "WorkspaceRootPath": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AB45681-AD39-4235-92E0-B678F05CF8FC}|Interface\\Interface.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\interface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AB45681-AD39-4235-92E0-B678F05CF8FC}|Interface\\Interface.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\interface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AB45681-AD39-4235-92E0-B678F05CF8FC}|Interface\\Interface.csproj|solutionrelative:interface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AB45681-AD39-4235-92E0-B678F05CF8FC}|Interface\\Interface.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\interface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4AB45681-AD39-4235-92E0-B678F05CF8FC}|Interface\\Interface.csproj|solutionrelative:interface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\models\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\models\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
-      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\models\\capitulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\capitulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\models\\ibuscable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\models\\ibuscable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\ibuscable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\models\\iregistrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4AB45681-AD39-4235-92E0-B678F05CF8FC}|Interface\\Interface.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\interface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4AB45681-AD39-4235-92E0-B678F05CF8FC}|Interface\\Interface.csproj|solutionrelative:interface\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\models\\capitulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\capitulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\models\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|C:\\Users\\Andre\\Evaluacion\\Evaluacion\\models\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\models\\iregistrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F424E65-4A00-426D-8BDC-D59B71D45069}|Models\\Models.csproj|solutionrelative:models\\iregistrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{992552A8-B1E1-45AA-91F8-F6436FA71266}|BLL\\BLL.csproj|c:\\users\\aprendiz\\desktop\\evaluacion\\evaluacion\\bll\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{992552A8-B1E1-45AA-91F8-F6436FA71266}|BLL\\BLL.csproj|c:\\users\\andre\\evaluacion\\evaluacion\\bll\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{992552A8-B1E1-45AA-91F8-F6436FA71266}|BLL\\BLL.csproj|solutionrelative:bll\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,27 +62,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Autor.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Autor.cs",
               "RelativeDocumentMoniker": "Models\\Autor.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Autor.cs",
               "RelativeToolTip": "Models\\Autor.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T21:53:04.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ClassDiagram1.cd",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\ClassDiagram1.cd",
               "RelativeDocumentMoniker": "Models\\ClassDiagram1.cd",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\ClassDiagram1.cd",
               "RelativeToolTip": "Models\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
               "WhenOpened": "2024-06-06T20:22:26.326Z"
@@ -91,9 +95,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "IRegistrable.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\IRegistrable.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\IRegistrable.cs",
               "RelativeDocumentMoniker": "Models\\IRegistrable.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\IRegistrable.cs",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\IRegistrable.cs",
               "RelativeToolTip": "Models\\IRegistrable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,11 +105,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "IBuscable.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\IBuscable.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\IBuscable.cs",
               "RelativeDocumentMoniker": "Models\\IBuscable.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\IBuscable.cs",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\IBuscable.cs",
               "RelativeToolTip": "Models\\IBuscable.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,37 +117,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Repositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Repositorio.cs",
               "RelativeDocumentMoniker": "Models\\Repositorio.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Repositorio.cs",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Repositorio.cs",
               "RelativeToolTip": "Models\\Repositorio.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T19:54:32.073Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Capitulo.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Capitulo.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Capitulo.cs",
               "RelativeDocumentMoniker": "Models\\Capitulo.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Capitulo.cs",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Capitulo.cs",
               "RelativeToolTip": "Models\\Capitulo.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA5wBQAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T19:39:29.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "Models\\Libro.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Libro.cs",
               "RelativeToolTip": "Models\\Libro.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA5wBoAAAAaAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T19:36:25.085Z"
             },
@@ -151,33 +155,33 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Prestamo.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Prestamo.cs",
               "RelativeDocumentMoniker": "Models\\Prestamo.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Prestamo.cs",
               "RelativeToolTip": "Models\\Prestamo.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAowAkAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T19:30:47.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Usuario.cs",
               "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAA5wBMAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T19:28:04.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Interface\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Interface\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Interface\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Interface\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Interface\\MainWindow.xaml",
               "RelativeToolTip": "Interface\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-06T19:20:05.225Z"
@@ -186,38 +190,38 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Interface\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Interface\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Interface\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Interface\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Interface\\MainWindow.xaml.cs",
               "RelativeToolTip": "Interface\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAmwEYAAAByAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T19:20:04.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:19:35.115Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Utilidades.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\BLL\\Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\BLL\\Utilidades.cs",
               "RelativeDocumentMoniker": "BLL\\Utilidades.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\BLL\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\BLL\\Utilidades.cs",
               "RelativeToolTip": "BLL\\Utilidades.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T19:19:49.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Persona.cs",
-              "RelativeDocumentMoniker": "Models\\Persona.cs",
-              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Persona.cs",
-              "RelativeToolTip": "Models\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T19:19:35.115Z"
             }
           ]
         }

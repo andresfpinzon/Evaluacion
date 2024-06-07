@@ -1,57 +1,64 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Models.Autor">
-    <Position X="8.75" Y="1" Width="1.5" />
+    <Position X="8.5" Y="1" Width="2" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAAAAAAAAAAEAAAAAAAAAAEAAAAAAAAAAAgA=</HashCode>
       <FileName>Autor.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Models.Capitulo">
-    <Position X="11" Y="1" Width="1.5" />
+    <Position X="11" Y="1" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAEAAAABAAA=</HashCode>
       <FileName>Capitulo.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Models.Libro">
-    <Position X="13.25" Y="1" Width="1.5" />
+    <Position X="14.75" Y="1" Width="2.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAGAQAAhA=</HashCode>
       <FileName>Libro.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Models.Persona">
-    <Position X="6.25" Y="1" Width="1.5" />
+    <Position X="6" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAACAAAACgAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Persona.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Models.Prestamo">
-    <Position X="5.25" Y="4.5" Width="1.5" />
+    <Position X="5.25" Y="4.5" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAQAAAAEEAAAAAAAAAAAAAEAAAAAEAAAAAAA=</HashCode>
       <FileName>Prestamo.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Models.Usuario">
-    <Position X="3.5" Y="1" Width="1.5" />
+    <Position X="3" Y="1" Width="2" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAAAAIAAAAAAAAAAQAAAAAAAAgAAAAAAAQgA=</HashCode>
       <FileName>Usuario.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
+  <Class Name="Models.Repositorio&lt;T&gt;">
+    <Position X="13" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Repositorio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
   <Interface Name="Models.IBuscable">
-    <Position X="9.5" Y="4" Width="1.5" />
+    <Position X="8" Y="4.25" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
       <FileName>IBuscable.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="Models.IRegistrable">
-    <Position X="11.5" Y="4.25" Width="1.5" />
+    <Position X="10.25" Y="4.25" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAIAAAAAAAAAAQAAAAAAAAAAAAAAAAQAA=</HashCode>
       <FileName>IRegistrable.cs</FileName>

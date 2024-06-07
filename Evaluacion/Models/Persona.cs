@@ -17,7 +17,7 @@
 			get { return email; }
 			set { email = value; }
 		}
-        protected Persona(string n, string e)
+        public Persona(string n, string e)
         {
             Nombre = n;
 			Email = e;
