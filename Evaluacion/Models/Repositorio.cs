@@ -8,8 +8,7 @@ namespace Models
 {
     public class Repositorio<T>
     {
-        public List<T> elementos { get; set; }
-
+        public List<T> elementos;
         public void AgregarElemento(T elemento) 
         { 
             this.elementos.Add(elemento);
@@ -25,6 +24,10 @@ namespace Models
             return new List<T>(this.elementos);
         }
 
+        public Repositorio()
+        {
+            elementos = new List<T>();
+        }
 
     }
 }

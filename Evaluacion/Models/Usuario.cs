@@ -44,5 +44,9 @@ namespace Models
         {
             return "algo";
         }
+        public override string ToString()
+        {
+            return $"Datos del usuario, Id: {IdU}, Nombre: {Nombre}, Email: {Email}";
+        }
     }
 }

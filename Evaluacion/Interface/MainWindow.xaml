@@ -9,9 +9,9 @@
     <Grid>
         <GroupBox HorizontalAlignment="Left" Height="135" Header="Objeto" Margin="20,18,0,0" VerticalAlignment="Top" Width="140">
             <Canvas>
-                <RadioButton x:Name="RbtAutor" Content="Autor" Canvas.Left="16" Canvas.Top="37" HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                <RadioButton x:Name="RbtUsuario" Content="Usuario" Canvas.Left="16" Canvas.Top="17" HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                <RadioButton x:Name="RbtPrestamo" Content="Prestamo" Canvas.Left="16" Canvas.Top="57" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+                <RadioButton x:Name="RbtAutor" Content="Autor" Canvas.Left="16" Canvas.Top="37" HorizontalAlignment="Left" VerticalAlignment="Center" Checked="RbtAutor_Checked"/>
+                <RadioButton x:Name="RbtUsuario" Content="Usuario" Canvas.Left="16" Canvas.Top="17" HorizontalAlignment="Left" VerticalAlignment="Center" Checked="RbtUsuario_Checked"/>
+                <RadioButton x:Name="RbtPrestamo" Content="Prestamo" Canvas.Left="16" Canvas.Top="57" HorizontalAlignment="Center" VerticalAlignment="Top" Checked="RbtPrestamo_Checked"/>
             </Canvas>
         </GroupBox>
         <GroupBox Header="Datos" Margin="188,15,48,160">

@@ -28,6 +28,16 @@ namespace Models
             Libros = libros;   
         }
 
-       
+        public override string ToString()
+        {
+            StringBuilder libros = new StringBuilder();
+            foreach (var libro in Libros)
+            {
+                libros.AppendLine(libro.ToString());
+            }
+
+            return $"Datos del autor, ID: {IdA}, Nombre: {Nombre}, Email: {Email}, Libros: {libros.ToString()}";
+        }
+
     }
 }

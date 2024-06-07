@@ -17,7 +17,7 @@ namespace Interface
     /// </summary>
     public partial class MainWindow : Window
     {
-        
+
         Capitulo capitulo;
         Repositorio<Usuario> Usuarios;
         Repositorio<Autor> Autores;
@@ -39,7 +39,7 @@ namespace Interface
         {
             try
             {
-                if (RbtAutor.IsChecked == false && RbtPrestamo.IsChecked == false && RbtUsuario.IsChecked == false )
+                if (RbtAutor.IsChecked == false && RbtPrestamo.IsChecked == false && RbtUsuario.IsChecked == false)
                 {
                     MessageBox.Show($"por falvor seleccione el tipo de objeto");
                 }
@@ -56,35 +56,91 @@ namespace Interface
                     prestamo.IdL = Convert.ToInt32(TxbIdLibro.Text);
                     prestamo.FechaI = Convert.ToDateTime(DtpFechaI.Text);
                     prestamo.FechaF = Convert.ToDateTime(DtpFechaF.Text);
+                    
                     Prestamos.AgregarElemento(prestamo);
                 }
                 else if (RbtAutor.IsChecked == true)
                 {
-                    Autor autor = new Autor(Convert.ToInt32(TxbId.Text),Libros = List<Libro>, TxbNombre.Text, TxbEmail.Text);
+                    List<Libro> libros = new List<Libro>();
+                    Autor autor = new Autor(Convert.ToInt32(TxbId.Text), TxbNombre.Text, TxbEmail.Text, libros);
+                    Autores.AgregarElemento(autor);
 
-                    Usuarios.AgregarElemento(usuario);
+                    Libro libro = new Libro
+                    {
+                        IdL = Convert.ToInt32(TxbIdLibro.Text),
+                        Titulo = TxbTitulo.Text,
+                        Capitulo = capitulo
+                    };
+                    Libros.AgregarElemento(libro);
+                    autor.Libros.Add(libro);
                 }
-
             }
             catch (FormatException)
             {
-                MessageBox.Show("No debe dejar campos vacios","ERROR",MessageBoxButton.OK, MessageBoxImage.Error);
+                MessageBox.Show("No debe dejar campos vacios", "ERROR", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
 
         private void BtnSalir_Click(object sender, RoutedEventArgs e)
         {
-
+            this.Close();
         }
 
         private void BtnMostrar_Click(object sender, RoutedEventArgs e)
         {
+            StringBuilder datos = new StringBuilder();
 
+            if (RbtUsuario.IsChecked == true)
+            {
+                foreach (var usuario in Usuarios.MostrarElemento())
+                {
+                    datos.AppendLine(usuario.ToString());
+                }
+            }
+            else if (RbtAutor.IsChecked == true)
+            {
+                foreach (var autor in Autores.MostrarElemento())
+                {
+                    datos.AppendLine(autor.ToString());
+                }
+            }
+            else if (RbtPrestamo.IsChecked == true)
+            {
+                foreach (var prestamo in Prestamos.MostrarElemento())
+                {
+                    datos.AppendLine(prestamo.ToString());
+                }
+            }
+
+            MessageBox.Show(datos.ToString(), "Datos", MessageBoxButton.OK, MessageBoxImage.Information);
         }
 
         private void BtnLibros_Click(object sender, RoutedEventArgs e)
         {
+            StringBuilder datos = new StringBuilder();
 
+            foreach (var libro in Libros.MostrarElemento())
+            {
+                datos.AppendLine(libro.ToString());
+            }
+
+            MessageBox.Show(datos.ToString(), "Libros", MessageBoxButton.OK, MessageBoxImage.Information);
         }
+
+        ////No alcanzamos a hacer la validacion de cual estaria disponible segun que rtb estuviera seleccionado
+        //private void RbtUsuario_Checked(object sender, RoutedEventArgs e)
+        //{
+           
+        //}
+
+        //private void RbtAutor_Checked(object sender, RoutedEventArgs e)
+        //{
+
+        //}
+
+        //private void RbtPrestamo_Checked(object sender, RoutedEventArgs e)
+        //{
+
+        //}
     }
 }

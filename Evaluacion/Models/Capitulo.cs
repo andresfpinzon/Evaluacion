@@ -30,5 +30,10 @@ namespace Models
 			Nombre = "Montañas Azules";
         }
 
+        public override string ToString()
+        {
+            return $"Capitulo {Numero}, Nombre: {Nombre}";
+        }
+
     }
 }

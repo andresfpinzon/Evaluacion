@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Models.csproj": {}
+    "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\BLL\\BLL.csproj": {
+    "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\BLL\\BLL.csproj",
-        "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\BLL\\obj\\",
+        "projectPath": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\BLL\\BLL.csproj",
+        "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aprendiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -69,20 +69,20 @@
         }
       }
     },
-    "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Models.csproj": {
+    "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\Models.csproj",
-        "packagesPath": "C:\\Users\\Aprendiz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\Models\\obj\\",
+        "projectPath": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Aprendiz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\Aprendiz\\Desktop\\Evaluacion\\Evaluacion\\BLL\\BLL.csproj"
+              "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Andre\\Evaluacion\\Evaluacion\\BLL\\BLL.csproj"
               }
             }
           }
